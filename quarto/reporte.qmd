@@ -8,7 +8,7 @@ format:
     toc-depth: 3       # Levels in TOC
 ---
 
-# Etapa 1. Conociendo el negocio
+# Etapa 1. Conociendo el negocio hola
 
 ```{r}
 library(maps)
